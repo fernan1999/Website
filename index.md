@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+</style>
 
-You can use the [editor on GitHub](https://github.com/fernan1999/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 style="background-color:White;">Fernando J. Soca Nodarse</h1>
+<p style="background-color:White;">Portfolio.</p>
+<div class="row">
+	<div class="col-md-3">
+		<h3 style="background-color:White;">Getting to Know Me </h3>
+	</div>
+	<div class="col-md-9">
+		<p style="background-color:White;"> I currently concentrate in History and Literature and African American Studies. I am an off-cycle junior living in Quincy house and am originally from Miami, Florida. Some of my favorite hobbies are photography and hiking outdoors which I find the Everglades National Park to be perfect for. I also keep an aquarium and an interesting collection of Tarantulas I hold very dear. Most of all I am a dog lover and my little Dachshund, "Muad'Dib," is my best friend.<p>
+	
+	</div>
+</div>
+<h3 style="background-color:White;"> Final Project Proposal </h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="col-md-9">
+		<p style="background-color:White;"> I am currently thinking about creating a bluetooth shutter release for my Mamiya M645 as only shutter release cables have been ever been released for this camera with little to no adapters for modern cables. I find myself hindered, especially while working alone, in the ability for self-portraiture which the Mamiya excels at. The device would connect to my phone via app and simply trigger the shutter similar to existing mechanisms in other Mamiya accessories.
+        
+        
+        
+</html>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fernan1999/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
