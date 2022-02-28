@@ -1,4 +1,3 @@
-</style>
 
 <h1 style="background-color:White;">Fernando J. Soca Nodarse</h1>
 <p style="background-color:White;">Portfolio.</p>
