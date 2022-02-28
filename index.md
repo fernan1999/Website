@@ -8,8 +8,6 @@
 	<div class="col-md-9">
 		<p style="background-color:White;"> I currently concentrate in History and Literature and African American Studies. I am an off-cycle junior living in Quincy house and am originally from Miami, Florida. Some of my favorite hobbies are photography and hiking outdoors which I find the Everglades National Park to be perfect for. I also keep an aquarium and an interesting collection of Tarantulas I hold very dear. Most of all I am a dog lover and my little Dachshund, "Muad'Dib," is my best friend.<p>
 	
-	</div>
-</div>
 <h3 style="background-color:White;"> Final Project Proposal </h3>
 
 <div class="col-md-9">
